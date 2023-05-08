@@ -1,0 +1,13 @@
+{
+  "name": "final",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "backup": "node backup.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fs-extra": "^11.1.1"
+  }
+}
